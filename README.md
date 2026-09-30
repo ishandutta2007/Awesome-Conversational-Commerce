@@ -53,9 +53,9 @@
 
 ## ⚡ Open-Source GitHub Projects
 
-*Self-hosted frameworks, omni-channel support desks, visual AI agent builders, and messaging cores ranked by GitHub Star count.*
+*Self-hosted frameworks, omni-channel support desks, visual AI agent builders, and messaging cores ranked by GitHub Stars_Count.*
 
-| Project | GitHub Stars ⭐ | Repository Link 🔗 | Description & Conversational Commerce Utility 🛠️ |
+| Project | GitHub_Stars ⭐ | Repository Link 🔗 | Description & Conversational Commerce Utility 🛠️ |
 | :--- | :--- | :--- | :--- |
 | **Langflow** | [<img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white" alt="Langflow Stars" />](https://github.com/langflow-ai/langflow/stargazers) | **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** | Open-source AI workflow builder for multi-agent autonomous commerce bots & RAG pipelines. |
 | **Flowise** | [<img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white" alt="Flowise Stars" />](https://github.com/FlowiseAI/Flowise/stargazers) | **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** | Drag & drop UI node tool for building LLM conversational agents and custom ecommerce integrations. |
@@ -83,7 +83,7 @@ Contributions are highly welcome! Please read the guidelines below:
 
 1. **Fork** this repository.
 2. Add your product or open-source project to `README.md` keeping alphabetical/category table formatting.
-3. Ensure accurate pricing info, free tier specs, revenue/star counts, and direct links.
+3. Ensure accurate pricing info, free tier specs, revenue/Stars_Counts, and direct links.
 4. Submit a **Pull Request** with a clear explanation of additions.
 
 Refer to the curated collection of awesome lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
